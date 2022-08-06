@@ -28,6 +28,10 @@ header h2 span {
 	font-family: myFirstFont;
 }
 
+header h6 span {
+	font-family: myFirstFontFamily;
+}
+
 @keyframes ganpatiji{
 	0%{color:red;}
 	30%{color: pink;}
