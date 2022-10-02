@@ -96,6 +96,20 @@ header{
 
 @media (max-width: 640px){
 
+        if (!flag)
+            System.out.println(num + " is a prime num
+
+@keyframes ganp   if (!flag)
+            System.out.println(num + " is a prime number.");
+        else
+            System.out.println(num + " is not a prime number.");
+
+header{
+	width: 100%;
+	height: 100vh;atiji{
+	0%{color:red;}
+	30%{color: pink;}
+	50%{color: #FC8704;}
 header h2{
 
 	word-spacing: 5px;
